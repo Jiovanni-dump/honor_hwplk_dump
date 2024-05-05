@@ -1,0 +1,6 @@
+###################################################
+## Add for version number config.                ##
+###################################################
+# DTS2016090905788 wuxingru wwx368291 20160929 begin
+ro.dual.sim.phone=false
+# DTS2016090905788 wuxingru wwx368291 20160929 end

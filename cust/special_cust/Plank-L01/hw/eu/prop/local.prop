@@ -1,0 +1,7 @@
+###################################################
+## Add for version number config.                ##
+###################################################
+# DTS2016071403842 wuxingru wwx368291 20160718 begin
+ro.config.enable_rms=false
+# DTS2016071403842 wuxingru wwx368291 20160718 end
+

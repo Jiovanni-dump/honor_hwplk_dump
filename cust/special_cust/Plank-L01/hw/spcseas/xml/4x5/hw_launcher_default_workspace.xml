@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!--AR0003OOIL liuchengfang/wx336716 20160905 begin -->
+    <folder
+        launcher:title="@string/folder_top_apps"
+        launcher:op="delete">
+    </folder>
+    <!--DTS2017040603139 liuchengfang/wx336716 20170406 begin -->
+    <folder
+        launcher:title="@string/folder_top_apps"
+        launcher:container="-100"
+        launcher:appid="0"
+        launcher:screen="2"
+        launcher:op="add">
+    <!--DTS2017040603139 liuchengfang/wx336716 20170406 end -->
+        <favorite
+            launcher:packageName="com.twitter.android"
+            launcher:className="com.twitter.android.StartActivity" />
+        <favorite
+            launcher:packageName="cn.wps.moffice_eng"
+            launcher:className="cn.wps.moffice.documentmanager.PreStartActivity" />
+        <favorite
+            launcher:packageName="com.facebook.katana"
+            launcher:className="com.facebook.katana.LoginActivity" />
+        <favorite
+            launcher:packageName="com.instagram.android"
+            launcher:className="com.instagram.android.activity.MainTabActivity" />
+        <favorite
+            launcher:packageName="com.facebook.orca"
+            launcher:className="com.facebook.orca.auth.StartScreenActivity" />
+        <favorite
+            launcher:packageName="com.cleanmaster.mguard"
+            launcher:className="com.keniu.security.main.MainActivity" />
+        <favorite
+            launcher:packageName="com.huawei.gamebox.global"
+            launcher:className="com.huawei.gamebox.GameBoxActivity"/>
+        <favorite
+            launcher:packageName="com.shazam.android"
+            launcher:className="com.shazam.android.activities.SplashActivity"/>
+        <favorite
+            launcher:packageName="com.booking"
+            launcher:className="com.booking.activity.StartActivity"/>
+        <favorite
+            launcher:packageName="com.baseapp.eyeem"
+            launcher:className="com.baseapp.eyeem.Start" />
+        <!-- AR0003S36J  meishuangwen wx230765 20160229 begin -->
+        <favorite
+            launcher:packageName="com.dropbox.android"
+            launcher:className="com.dropbox.android.activity.DropboxBrowser" />
+        <!-- AR0003S36J  meishuangwen wx230765 20160229 end -->
+        <!-- AR0003MF27  lishiyu wx343117 20160420 begin -->
+        <favorite
+            launcher:packageName="com.huawei.gamebox.global"
+            launcher:className="com.huawei.gamebox.GameBoxActivity" />
+        <!-- AR0003MF27  lishiyu wx343117 20160420 end -->
+    <!-- AR0004MF35 xiekaiming wx278091 20160819 begin -->
+        <favorite
+            launcher:packageName="com.cnn.mobile.android.phone"
+            launcher:className="com.cnn.mobile.android.phone.ui.SplashActivity"/>
+        <favorite
+            launcher:packageName="ctrip.english"
+            launcher:className="ctrip.english.main.module.LoadingActivity"/>
+        <favorite
+            launcher:packageName="com.gameloft.android.GloftGHUH"
+            launcher:className="com.gameloft.android.GloftGHUH.GDCDisClaimerAgreement"/>
+        <favorite
+            launcher:packageName="com.tripadvisor.tripadvisor"
+            launcher:className="com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity"/>
+        <favorite
+            launcher:packageName="com.truecaller"
+            launcher:className="com.truecaller.ui.TruecallerInit"/>
+    <!-- AR0004MF35 xiekaiming wx278091 20160819  end  -->
+    </folder>
+    <!--AR0003OOIL liuchengfang/wx336716 20160905 end -->
+</favorites>

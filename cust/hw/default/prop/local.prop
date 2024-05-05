@@ -1,0 +1,11 @@
+ro.config.hw_opta=999
+ro.config.hw_optb=156
+ro.product.locale.language=zh
+ro.product.locale.region=CN
+#DTS2014061909004 l81003403 begin
+ro.systemui.debug=true
+#DTS2014061909004 l81003403 end
+ro.config.hw_disable_cops=true
+#DTS2015102301164 yangying/wx283924 20151210 begin
+ro.config.hw_use_browser_ua=http://wap1.huawei.com/uaprof/HUAWEI_PLK-L01-Uaprofile.xml
+#DTS2015102301164 yangying/wx283924 20151210 end

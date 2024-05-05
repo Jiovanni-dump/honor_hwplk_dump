@@ -1,0 +1,14 @@
+/data/dataapp/WPS/WPS.apk
+/data/dataapp/Facebook/Facebook.apk
+/data/dataapp/Twitter/Twitter.apk
+/data/dataapp/CleanMaster/CleanMaster.apk
+/data/dataapp/BubbleBashMania/BubbleBashMania.apk
+/data/dataapp/DragonMania/DragonMania.apk
+/data/dataapp/Highlights/Highlights.apk
+/data/dataapp/PuzzlePets/PuzzlePets.apk
+/data/dataapp/Honor/Honor.apk
+/data/dataapp/HPLegacyPlugin/HPLegacyPlugin.apk
+/data/dataapp/PGA_50_Free_Games/PGA_50_Free_Games.apk
+/data/dataapp/RealFootball2015/RealFootball2015.apk
+/data/dataapp/PuzzlePets_FULL_Honor/PuzzlePets_FULL_Honor.apk
+/data/dataapp/Vmall/Vmall.apk

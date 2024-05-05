@@ -1,0 +1,14 @@
+# PLK-user 6.0 HONORPLK-L01 C432B398 release-keys
+- manufacturer: huawei
+- platform: hi3635
+- codename: HWPLK
+- flavor: PLK-user
+- release: 6.0
+- id: HONORPLK-L01
+- incremental: C432B398
+- tags: release-keys
+- fingerprint: 
+- is_ab: false
+- brand: HONOR
+- branch: PLK-user-6.0-HONORPLK-L01-C432B398-release-keys
+- repo: honor_hwplk_dump
